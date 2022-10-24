@@ -11,5 +11,5 @@ Mari sertai perbualan kami di Discord:
 
 ## Piawaian dalam Bahasa Pemprograman Lain
 - [Piawaian dalam Go](https://github.com/hassanhabib/StandardGoLang)
-- [Piawaian dalam Scala](https://github.com/hassanhabib/StandardScala)\
+- [Piawaian dalam Scala](https://github.com/hassanhabib/StandardScala)
 - [Piawaian dalam R](https://github.com/hassanhabib/StandardR)
