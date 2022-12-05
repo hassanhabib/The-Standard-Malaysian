@@ -14,6 +14,7 @@ Mari sertai perbualan kami di Discord:
     - [1.2 Perwatakan](https://github.com/hassanhabib/The-Standard-Malaysian/blob/main/1.%20Broker/1.%20Broker.md#12-perwatakan)
     - [1.3 Organisasi](https://github.com/hassanhabib/The-Standard-Malaysian/blob/main/1.%20Broker/1.%20Broker.md#13-organisasi)
     - [1.4 Jenis-jenis Broker](https://github.com/hassanhabib/The-Standard-Malaysian/blob/main/1.%20Broker/1.%20Broker.md#14-jenis-jenis-broker)
+    - [1.5 Pelaksanaan](https://github.com/hassanhabib/The-Standard-Malaysian/blob/main/1.%20Broker/1.%20Broker.md#15-pelaksanaan)
 
 ## Piawaian dalam Bahasa Pemprograman Lain
 - [Piawaian dalam Go](https://github.com/hassanhabib/StandardGoLang)
